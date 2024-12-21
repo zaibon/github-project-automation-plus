@@ -28,11 +28,11 @@
   },
   "homepage": "https://github.com/alex-page/automate-project-columns#readme",
   "dependencies": {
-    "@actions/core": "^1.0.0",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^1.0.0"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.20.4",
-    "xo": "^0.24.0"
+    "xo": "^0.60.0"
   }
 }
